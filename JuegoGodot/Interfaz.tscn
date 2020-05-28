@@ -37,12 +37,13 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
-margin_left = -286.0
+margin_left = -240.0
 margin_top = -86.0
-margin_right = 286.0
+margin_right = 240.0
 margin_bottom = 86.0
 custom_fonts/font = SubResource( 2 )
-text = "Juego de Ibrahim"
+text = "The Esquivator
+Ibrasoft"
 align = 1
 valign = 1
 __meta__ = {

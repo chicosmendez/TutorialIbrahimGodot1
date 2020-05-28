@@ -17,7 +17,8 @@ _global_script_class_icons={
 
 config/name="Tutorial 1"
 run/main_scene="res://Mundo.tscn"
-config/icon="res://icon.png"
+boot_splash/image="res://dodge_assets/art/FondoProyecto.jpg"
+config/icon="res://dodge_assets/art/playerGrey_up1.png"
 
 [display]
 
