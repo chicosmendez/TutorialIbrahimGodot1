@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bienvenidos al sitio del primer tutorial de Godot de Ibrahim Mendez
 
-You can use the [editor on GitHub](https://github.com/chicosmendez/TutorialIbrahimGodot1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Creé mi primer juego en Godot y subí su código a GitHub [editor on GitHub](https://github.com/chicosmendez/TutorialIbrahimGodot1/edit/master/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ahora tengo que ver cómo hacer que el juego se pueda jugar online.
 
-### Markdown
+### Probando esto
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
